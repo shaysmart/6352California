@@ -1,0 +1,24 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 6352 California Street
+
+## Media
+
+### Title
+panorama_680608EF_63CE_7A72_41D7_B1D2DB24D446.label = Landing
+panorama_69A90FFF_63CE_F652_41D8_5D2858228FA3.label = Split Bath - Vanity & Shower/Tub
+panorama_69A92414_63CE_E9D6_41A7_6B8E0C197871.label = Office
+panorama_69A927E5_63CE_1676_4194_98A0DA154157.label = Bedroom 1
+panorama_69A93856_63CE_3A52_41BF_CFC2A34CF645.label = Kitchen
+panorama_69A93D10_63CE_7BAE_41C2_1A41C455A954.label = Street View
+panorama_69A94FF2_63CE_1652_41A6_20EC4B5482E6.label = Bedroom 2
+panorama_69A9500B_63CE_69B2_4195_BDFB42025873.label = Backyard
+panorama_69A9542F_63CE_29F2_41D8_6F1B064238FD.label = Laundry & Storage
+panorama_69A95C82_63CE_1AB2_41B5_9C9FACD89DFA.label = Split Batth - Toilet
+panorama_69A9EBEE_63CE_3E72_41D7_432A90DC2BB4.label = Bedroom 3
+panorama_69ABC3F6_63CE_6E52_41C0_188D98AA75A2.label = Living Room
